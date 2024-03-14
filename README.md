@@ -1,7 +1,3 @@
-Claro! Abaixo está um README completo para o projeto:
-
----
-
 # Projeto de Lista de Tarefas com GraphQL e APIs Rest
 
 Este projeto é uma aplicação simples de lista de tarefas (To-Do List) que utiliza GraphQL para a manipulação de dados no backend e oferece APIs Rest para interação com o frontend. O objetivo é demonstrar o uso prático de GraphQL em um contexto real de desenvolvimento.
